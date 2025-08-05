@@ -13,16 +13,16 @@ items = [
     # --- Meyveler (50) ---
     "Elma", "Armut", "Şeftali", "Muz", "Çilek", "Ahududu", "Böğürtlen", "Kiraz", "Vişne", "Üzüm",
     "Nar", "Portakal", "Mandalina", "Limon", "Greyfurt", "Kavun", "Karpuz", "Avokado", "Hindistan Cevizi", "Ananas",
-    "Mango", "Papaya", "Kivi", "Guava", "Kestane", "Fındık", "Mürdüm Erik", "Ayva", "Hurma", "Kumkuat",
-    "Bergamot", "İncir", "Karpuz Çekirdeksiz", "Açai", "Goji", "Akdarı", "Yaban Mersini", "Kızılcık", "Goyavi", "Carambola",
-    "Lime", "Frambuaz", "Tamarillo", "Yaban Üzümü", "Kahvaltılık Kiraz", "Kavun Tatlısı", "Zeytin", "Zencefil", "Anason", "Karanfil",
+    "Mango", "Papaya", "Kivi", "Guava", "Kestane", "Fındık", "Mürdüm Eriği", "Ayva", "Hurma", "Kumkat",
+    "Bergamot", "İncir", "Karpuz", "Açai", "Goji", "Yaban Mersini", "Kızılcık",
+    "Lime", "Frambuaz", "Yaban Üzümü", "Kiraz", "Kavun", "Zeytin", "Zencefil", "Anason", "Karanfil",
 
     # --- Sebzeler (50) ---
     "Domates", "Salatalık", "Biber", "Patlıcan", "Kabak", "Havuç", "Soğan", "Sarımsak", "Pırasa", "Lahana",
     "Brokoli", "Karnabahar", "Brüksel Lahanası", "Ispanak", "Roka", "Marul", "Kara Lahana", "Kereviz", "Turp", "Pancar",
     "Patates", "Şalgam", "Bamya", "Bezelye", "Mısır", "Fasulye", "Nohut", "Mercimek", "Bakla", "Enginar",
-    "Kuşkonmaz", "Yer Elması", "Ayçiçeği Çekirdeği", "Soya Fasulyesi", "Şeker Pancarı", "Kereviz Sapı", "Biberiye", "Maydanoz", "Dereotu", "Nane",
-    "Kişniş", "Kekik", "Adaçayı", "Fesleğen", "Kereviz Yaprağı", "Salata Marulu", "Kavun Kabuğu", "Turp Yaprağı", "Mantar", "Kuşkonmaz Sapı",
+    "Kuşkonmaz", "Yer Elması", "Ayçiçeği", "Soya Fasulyesi", "Şeker Pancarı", "Kereviz", "Biberiye", "Maydanoz", "Dereotu", "Nane",
+    "Kişniş", "Kekik", "Adaçayı", "Fesleğen", "Marul", "Turp", "Mantar", "Yosun", "Kuzu Kulağı",
 
     # --- Hayvanlar (50) ---
     "Kedi", "Köpek", "At", "İnek", "Koyun", "Keçi", "Tavuk", "Horoz", "Ördek", "Kaz",
@@ -32,11 +32,11 @@ items = [
     "Panter", "Leopar", "Jaguar", "Gergedan", "Zürafa", "Fil", "Panda", "Rakoon", "Sansar", "Vaşak",
 
     # --- Aletler ve Eşyalar (50) ---
-    "Çekiç", "Tornavida", "Matkap", "Testere", "Maket Bıçağı", "Pense", "Kerpeten", "Anahtar", "İngiliz Anahtarı", "Lokma Takımı",
-    "Allen Anahtarı", "Dremel", "Zımpara Makinesi", "Taşlama Makinesi", "Kürek", "Balyoz", "Rende", "Makas", "Kablo Soyucu", "Kumpas",
-    "Cetvel", "Kelepçe", "Zımba", "Zımba Teli", "Ataç", "Dosya", "Defter", "Ajanda", "Post-It", "Hesap Makinesi",
+    "Çekiç", "Tornavida", "Matkap", "Testere", "Maket Bıçağı", "Pense", "Kerpeten", "Anahtar", "İngiliz Anahtarı",
+    "Zımpara Makinesi", "Kürek", "Balyoz", "Rende", "Makas", "Kumpas",
+    "Cetvel", "Kelepçe", "Zımba", "Ataç", "Dosya", "Defter", "Ajanda", "Post-It", "Hesap Makinesi",
     "Yazıcı", "Klavye", "Mouse", "Ekran", "Hoparlör", "Kulaklık", "Mikrofon", "Kamera", "Tripod", "Drone",
-    "Sandaly e", "Masa", "Dolap", "Kitaplık", "Sehpa", "Koltuk", "Yatak", "Şilte", "Yastık", "Battaniye",
+    "Sandalye", "Masa", "Dolap", "Kitaplık", "Sehpa", "Koltuk", "Yatak", "Şilte", "Yastık", "Battaniye",
 
     # --- Ünlüler (100) ---
     "Tarkan", "Ajda Pekkan", "Sezen Aksu", "Cem Yılmaz", "Şener Şen", "Haluk Bilginer", "Beren Saat", "Kenan İmirzalioğlu", "Kıvanç Tatlıtuğ", "Fahriye Evcen",
@@ -53,61 +53,60 @@ items = [
     "Telefon", "Bilgisayar", "Televizyon", "Radyo", "Saat", "Ayna", "Çanta", "Cüzdan", "Şemsiye", "Yağmurluk",
     "Mont", "Kazak", "Tişört", "Pantolon", "Etek", "Elbise", "Ayakkabı", "Sandalet", "Çorap", "Terlik",
     "Şapka", "Bere", "Eldiven", "Gözlük", "Güneş Gözlüğü", "Kol Saati", "Bileklik", "Kolye", "Küpe", "Yüzük",
-    "Anahtar", "Anahtarlık", "Bavul", "Sırt Çantası", "Seyahat Çantası", "Saat Kordonu", "Film Kamerası", "GPS", "Dijital Fotoğraf Makinesi", "Projeksiyon",
+    "Anahtarlık", "Bavul", "Sırt Çantası", "Valiz", "Kamera", "GPS", "Fotoğraf Makinesi", "Projeksiyon",
     "Mutfak Robotu", "Buzdolabı", "Çamaşır Makinesi", "Bulaşık Makinesi", "Fırın", "Ocak", "Mikrodalga Fırın", "Tost Makinesi", "Fritöz", "Kahve Makinesi",
     "Çay Makinesi", "Su Isıtıcı", "Blender", "Mikser", "Tencere", "Tava", "Çatal", "Bıçak", "Kaşık", "Tabak",
-    "Bardak", "Fincan", "Kesme Tahtası", "Rende", "Şişe Açacağı", "Makarna Süzgeci", "Sebze Soyacağı", "Süzgeç", "Damak Kaşığı", "Termos",
-    "Mutfak Ölçü Kabı", "Kağıt Havlu", "Peçete Tutacağı", "Çöp Kovası", "Süpürge", "Paspas", "Elektrikli Süpürge", "Firçalayıcı", "Temizlik Bezi", "Deterjan",
-    "Sabunluk", "Diş Fırçası", "Diş Macunu", "Havlu", "Banyo Dolabı", "Tuvalet Kağıdı", "Çamaşır Sepeti", "Dijital Terazi", "Küvet", "Duş Perdesi",
+    "Bardak", "Fincan", "Kesme Tahtası", "Rende", "Şişe Açacağı", "Makarna Süzgeci", "Sebze Soyacağı", "Süzgeç", "Termos",
+    "Ölçü Kabı", "Kağıt Havlu", "Peçete Tutacağı", "Çöp Kovası", "Süpürge", "Paspas", "Elektrikli Süpürge", "Temizlik Bezi", "Deterjan",
+    "Sabunluk", "Diş Fırçası", "Diş Macunu", "Havlu", "Banyo Dolabı", "Tuvalet Kağıdı", "Çamaşır Sepeti", "Mutfak Tartısı", "Küvet",
 
     # --- Taşıtlar (50) ---
     "Araba", "Bisiklet", "Motosiklet", "Otobüs", "Kamyon", "Kamyonet", "Minibüs", "Metro", "Tren", "Tramvay",
     "Uçak", "Helikopter", "Gemi", "Feribot", "Yelkenli", "Kano", "Deniz Motoru", "Jetski", "Kayık", "Römork",
-    "Karavan", "Pikap", "Elektrikli Scooter", "Hoverboard", "Segway", "Skuter", "Traktör", "Zırhlı Araç", "Tank", "İtfaiye Aracı",
-    "Ambulans", "Polis Aracı", "At Arabası", "Spor Araba", "SUV", "Hatchback", "Sedan", "Cabrio", "Roadster", "Kargo Uçağı",
-    "Heliport", "Yolcu Gemisi", "Balon", "Paraşüt", "Jet Uçağı", "Hidroplan", "Limuzin", "Monoray", "Funtoş", "Drift Arabası",
+    "Karavan", "Pikap", "Elektrikli Scooter", "Hoverboard", "Segway", "Skooter", "Traktör", "Tank", "İtfaiye Aracı",
+    "Ambulans", "Polis Aracı", "At Arabası",
+    "Yolcu Gemisi", "Balon", "Paraşüt", "Jet Uçağı", "Limuzin",
 
     # --- Meslekler (50) ---
     "Avukat", "Doktor", "Hemşire", "Öğretmen", "Mühendis", "Mimar", "Muhasebeci", "Polis Memuru", "İtfaiyeci", "Pilot",
     "Hostes", "Garson", "Pastacı", "Aşçı", "Kasiyer", "Market Müdürü", "Barista", "Bartender", "Taksici", "Şoför",
-    "Fotografçı", "Gazeteci", "Editör", "Yazılım Geliştirici", "Veri Analisti", "Proje Yöneticisi", "Pazarlama Uzmanı", "Satış Temsilcisi", "Danışman", "Psikolog",
+    "Fotoğrafçı", "Gazeteci", "Editör", "Yazılım Geliştirici", "Veri Analisti", "Proje Yöneticisi", "Pazarlama Uzmanı", "Satış Temsilcisi", "Danışman", "Psikolog",
     "Psikiyatrist", "Fizyoterapist", "Eczacı", "Veteriner", "Di̇ş Hekimi", "Fizikçi", "Kimyager", "Biyolog", "Matematikçi", "Arkeolog",
-    "Tarihçi", "Sosyolog", "Antropolog", "Çevirmen", "Tercüman", "Çiftçi", "Bahçıvan", "Bahçıvan Yardımcısı", "Elektrikçi", "Sıvacı",
+    "Tarihçi", "Sosyolog", "Antropolog", "Çevirmen", "Tercüman", "Çiftçi", "Bahçıvan", "Elektrikçi", "Amele",
 
     # --- Mobilya (50) ---
-    "Yatak", "Başlık", "Gardırop", "Şifonyer", "Komodin", "Çalışma Masası", "Kitap Rafı", "Büro Sandalyesi", "TV Ünitesi", "Kitaplık",
-    "Yemek Masası", "Sandalye", "Bar Taburesi", "Puf", "Kanepe", "Kolçaklı Koltuk", "Berjer", "Oturma Grubu", "Kanepe Takımı", "Zigon Sehpa",
-    "Orta Sehpa", "Konsol", "Portmanto", "Ayakkabılık", "Depolama Ünitesi", "Çok Amaçlı Dolap", "Bebek Beşiği", "Çocuk Masası", "Çocuk Sandalyesi", "Oyun Alanı Üniteli Dolap",
-    "Bahçe Mobilyası", "Şezlong", "Masa Sandalye Takımı", "TV Sehpası", "Kitap Okuma Koltuğu", "Yüz Bakım Masası", "Makyaj Masası", "Ayakkabı Dolabı", "Portmanto Askısı", "Bebek Arabası",
-    "Çamaşır Sepeti", "Malzeme Dolabı", "Dosya Dolabı", "Raf Ünitesi", "Çok Katlı Kitaplık", "Katlanır Masa", "Katlanır Sandalye", "Bar Masası", "Ofis Dolabı", "Köşe Koltuk",
+    "Yatak", "Başlık", "Gardırop", "Şifonyer", "Komodin", "Çalışma Masası", "Raf", "Kitaplık",
+    "Yemek Masası", "Sandalye", "Kanepe", "Berjer", "Zigon Sehpa",
+    "Portmanto", "Ayakkabılık", "Bebek Beşiği",
+    "Şezlong", "Bebek Arabası",
+    "Çamaşır Sepeti",
 
     # --- Bitkiler & Çiçekler (50) ---
     "Gül", "Lale", "Orkide", "Karanfil", "Ayçiçeği", "Nergis", "Menekşe", "Begonya", "Sümbül", "Saksı Çiçeği",
     "Frezya", "Kasımpatı", "Zambak", "Şakayık", "Cam Gülü", "Yasemin", "Hanımeli", "Lavanta", "Biberiye", "Adaçayı",
-    "Menekşe Otu", "Sardunya", "Petunya", "Kedi Otu", "Sarı Kantaron", "Çarkıfelek", "Antoryum", "Kaktüs", "Aloe Vera", "Paşa Kılıcı",
-    "Kum Zambağı", "Kaz Ayağı", "Çin Şemsiyesi", "Barış Çiçeği", "Kamelya", "Fil Kulağı", "Philodendron", "Alyum", "Kasımpatı Türleri", "Kalp Çiçeği",
-    "Guatro", "Dracaena", "Ficus", "Areka Palmiyesi", "Monstera", "Zamioculcas", "Maranta", "Begonya Türleri", "Hoya", "Tradescantia",
+    "Menekşe Otu", "Sardunya", "Petunya", "Kedi Otu", "Sarı Kantaron", "Çarkıfelek", "Antoryum", "Kaktüs", "Aloe Vera",
+    "Barış Çiçeği", "Kamelya", 
 
     # --- Spor Ekipmanları (50) ---
     "Futbol Topu", "Basketbol Topu", "Voleybol", "Tenis Raketi", "Tenis Topu", "Golf Sopası", "Golf Topu", "Beyzbol Sopası", "Beyzbol Topu", "Hentbol Topu",
-    "Kricket Sopası", "Masa Tenisi Raketi", "Masa Tenisi Topu", "Beyzbol Eldiveni", "Boks Eldiveni", "Muay Thai Eldiveni", "Boks Torbası", "Ambalaj Eldiveni", "Kick Boks Torbası", "Atletizm Çivisi",
-    "Koşu Bandı", "Ağırlık Sehpası", "Dambıl", "Halter", "Bar", "Plaka", "Squat Rafı", "Yoga Matı", "Pilates Topu", "Direnç Bandı",
-    "Jimnastik Halteri", "Kondisyon Bisikleti", "Kürek Makinesi", "Step Tahtası", "Zıplama İpi", "Boks Çemberi", "Masa Tenisi Masası", "Bilardo Masası", "Futbol Kalesi", "Skateboard",
-    "Kaykay", "Patinaj Paten", "Bisiklet Kaskı", "Koruyucu Dizlik", "Koruyucu Dirseklik", "Kayak Takımı", "Snowboard", "Sörf Tahtası", "Dalış Ekipmanı", "Yelken Takımı",
+    "Masa Tenisi Raketi", "Masa Tenisi Topu", "Boks Eldiveni", "Boks Torbası",
+    "Koşu Bandı", "Dambıl", "Halter", "Bar", "Plaka", "Yoga Matı", "Pilates Topu",
+    "Step Tahtası", "Bilardo", "Skateboard",
+    "Kaykay", "Snowboard", "Sörf Tahtası",
 
     # --- Müzik Aletleri (50) ---
-    "Keman", "Violin", "Çello", "Kontrbas", "Gitar", "Bas Gitar", "Ukulele", "Mandolin", "Sitar", "Lute",
-    "Bağlama", "Ud", "Kanun", "Santur", "Ney", "Kaval", "Fagot", "Klarnet", "Obua", "Flüt",
-    "Trompet", "Trombon", "Korno", "Tuba", "Saksafon", "Duduk", "Mızıka", "Akordeon", "Piyano", "Elektrikli Klavye",
-    "Djembe", "Davul", "Bongo", "Kese Davulu", "Timpani", "Tamburin", "Marakas", "Ziller", "Cajon", "Triangle",
-    "Xilofon", "Marimba", "Vibrafon", "Glockenspiel", "Tabla", "Hang Drum", "Didgeridoo", "Theremin", "Harmonik", "Melodika",
+    "Keman", "Violin", "Çello", "Kontrbas", "Gitar", "Bas Gitar", "Ukulele", "Mandolin", "Sitar",
+    "Bağlama", "Ud", "Kanun", "Ney", "Kaval", "Klarnet", "Obua", "Flüt",
+    "Trompet", "Tuba", "Saksafon", "Düdük", "Mızıka", "Akordeon", "Piyano",
+    "Davul", "Marakas",
+    "Marimba", "Melodika",
 
     # --- Renkler (50) ---
     "Kırmızı", "Mavi", "Yeşil", "Sarı", "Turuncu", "Mor", "Pembe", "Beyaz", "Siyah", "Gri",
     "Kahverengi", "Bej", "Lacivert", "Mint Yeşili", "Turkuaz", "Zeytin Yeşili", "Bordo", "Lila", "Şeftali", "Krem",
-    "Açık Mavi", "Açık Yeşil", "Kömür Karası", "Kirli Beyaz", "Sağlık Yeşili", "Deniz Mavisi", "Koral", "Mercan", "Lavanta", "Fıstık Yeşili",
-    "Hardal Sarısı", "Çikolata Kahvesi", "Kahve Altı", "Gül Kurusu", "Pas Kırmızısı", "İnci Beyazı", "Antrasit", "Camgöbeği", "Kül Grisi", "Süt Beyazı",
-    "Söğüt Yeşili", "Fildişi", "Kabak Çekirdeği Yeşili", "Kar Çiçeği Beyazı", "İnci Mavisi", "Gri Yeşil", "Saman Sarısı", "Kum Rengi", "Yosun Yeşili", "Gri Mavi",
+    "Açık Mavi", "Açık Yeşil", "Mercan", "Lavanta", "Fıstık Yeşili",
+    "Hardal", "Çikolata", "Gül Kurusu", "Antrasit", "Camgöbeği",
+    "Fildişi",
 
 
         # --- Yabancı Ünlüler (150) ---
@@ -124,7 +123,7 @@ items = [
     "Jason Statham", "Vin Diesel", "Dwayne Johnson", "Idris Elba", "Ben Affleck", "Zac Efron",
     "Heath Ledger", "Joaquin Phoenix", "Michael Fassbender", "Cillian Murphy", "Tom Selleck",
     "Owen Wilson", "Edward Norton", "James Franco", "Donald Sutherland", "Christopher Walken",
-    "Samuel L. Jackson", "Russell Crowe", "Clint Eastwood", "Jeff Bridges", "John Travolta", "Mel Gibson",
+    "Samuel L. Jackson", "Clint Eastwood", "Jeff Bridges", "John Travolta", "Mel Gibson",
     "Steve Carell", "Bill Murray", "Jim Carrey",
 
     # Şarkıcı/Müzisyen (75)
@@ -169,22 +168,22 @@ items = [
     "Lionel Messi", "Cristiano Ronaldo", "Max Verstappen", "Conor McGregor", "LeBron James",
     "Tom Brady", "Tiger Woods", "Lewis Hamilton", "Novak Djokovic", "Michael Phelps",
 
-    # --- Ünlü Türk Yemekleri (150) ---
-    "Döner", "İskender", "Mantı", "Kebap", "Adana Kebap", "Urfa Kebap", "Çöp Şiş", "Şiş Kebap", "Ali Nazik",
+    # --- Türk Yemekleri (100) ---
+    "Döner", "İskender", "Mantı", "Kebap", "Adana Kebap", "Urfa Kebap", "Çöp Şiş", "Ali Nazik",
     "Testi Kebap", "Lahmacun", "Pide", "Kuşbaşılı Pide", "Kıymalı Pide", "Peynirli Pide", "Sucuklu Pide",
     "Kıymalı Börek", "Su Böreği", "Sigara Böreği", "Gül Böreği", "Paçanga Böreği", "Çiğ Börek",
     "Gözleme", "Katmer", "Künefe", "Baklava", "Kadayıf", "Tulumba", "Sütlaç", "Kazandibi",
-    "Keşkül", "Aşure", "Muhallebi", "Tavuklu Pilav", "Etli Pilav", "Nohutlu Pilav", "Zeytinyağlı Yaprak Sarma",
-    "Enginar Dolması", "Biber Dolması", "Kabak Dolması", "Kestane Şekeri", "Cevizli Reçel",
-    "Acuka", "Humus", "Ezme", "Haydari", "Muhammara", "Tarator", "Çırpılmış Yoğurt",
+    "Keşkül", "Aşure", "Muhallebi", "Tavuklu Pilav", "Nohutlu Pilav", "Zeytinyağlı Yaprak Sarma",
+    "Enginar Dolması", "Biber Dolması", "Kabak Dolması", "Kestane Şekeri",
+    "Acuka", "Humus", "Ezme", "Haydari", "Muhammara", "Tarator",
     "Patlıcan Salatası", "Köz Patlıcan", "Şakşuka", "Atom", "Mücver", "İmam Bayıldı",
-    "Kuzu Tandır", "Kuzu İncik", "Beğendi", "Hünkar Beğendi", "Karnıyarık", "İçli Köfte",
+    "Kuzu Tandır", "Kuzu İncik", "Hünkar Beğendi", "Karnıyarık", "İçli Köfte",
     "Sarma Köfte", "Çiğ Köfte", "Dalyan Köfte", "Kabak Mücveri", "Simit", "Pişi",
     "Lahmacun Dürüm", "Tost", "Balık Ekmek", "Midye Dolma", "Midye Tava",
     "Kokoreç", "Yaprak Döner", "Çevirme", "Tantuni", "Adana Usulü Tantuni", "Kilis Tavalısı",
-    "Patlıcan Kebabı", "Soslu Patates", "Haydar Otlu Pidesi", "Bursa İskenderi", "Edirne Tava Ciğeri",
+    "Patlıcan Kebabı", "Soslu Patates", "Edirne Tava Ciğeri",
     "Antep Fıstıklı Baklava", "Şanlıurfa Çiğköfte", "Maraş Dondurması", "Van Kahvaltısı",
-    "Karadeniz Pidesi", "Lahmacun İskender", "Tokat Kebabı", "Mantı Evi Mantısı", "Çorum Leblebisi",
+    "Karadeniz Pidesi", "Tokat Kebabı", "Mantı Evi Mantısı", "Çorum Leblebisi",
     "İnegöl Köfte", "İzmir Boyoz", "Bülbül Yuvası", "Paça Çorbası", "Analı Kızlı Çorba",
     "Kelle Paça", "Yayla Çorbası", "Domates Çorbası", "Mercimek Çorbası", "Tavuk Çorbası",
     "Ezogelin Çorbası", "Düğün Çorbası", "Tarhana Çorbası", "Yayla Çorbası", "Tırnaklı Çorba",
